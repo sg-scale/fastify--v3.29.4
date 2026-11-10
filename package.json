@@ -144,7 +144,7 @@
     "eslint-import-resolver-node": "^0.3.6",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-n": "^15.2.0",
-    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-promise": "^7.3.0",
     "fast-json-body": "^1.1.0",
     "fastify-plugin": "^3.0.0",
     "fluent-json-schema": "^3.0.0",
