@@ -132,7 +132,7 @@
     "ajv": "^6.0.0",
     "ajv-errors": "^1.0.1",
     "ajv-formats": "^2.1.1",
-    "ajv-i18n": "^3.5.0",
+    "ajv-i18n": "^4.2.0",
     "ajv-merge-patch": "^4.1.0",
     "ajv-pack": "^0.3.1",
     "branch-comparer": "^1.0.2",
