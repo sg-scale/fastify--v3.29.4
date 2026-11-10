@@ -181,7 +181,7 @@
     "@fastify/error": "^2.0.0",
     "abstract-logging": "^2.0.0",
     "avvio": "^7.1.2",
-    "fast-json-stringify": "^2.5.2",
+    "fast-json-stringify": "^7.3.1",
     "find-my-way": "^4.5.0",
     "flatstr": "^1.0.12",
     "light-my-request": "^4.2.0",
