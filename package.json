@@ -192,7 +192,7 @@
     "rfdc": "^1.1.4",
     "secure-json-parse": "^2.0.0",
     "semver": "^7.3.2",
-    "tiny-lru": "^8.0.1"
+    "tiny-lru": "^13.1.1"
   },
   "standard": {
     "ignore": [
